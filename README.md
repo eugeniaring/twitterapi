@@ -1,4 +1,4 @@
-# twitterapi
+# How to use Python and Twitter API to create your own Twitter dataset
 
 Social networks are constantly part of our life nowadays. Their popularity can be explained by accessibility and convenience, which allow users to provide huge amounts of information with limited or no restrictions on content. This continuous and rich mass of data is made available by these platforms with the purpose of studying sentiments about brands, products, events, recent news, social and political issues.
 
